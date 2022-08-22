@@ -1,3 +1,7 @@
 #!/usr/bin/python3
-number = 3.14159
-print(f"Float: {number:.2f}")
+import numbers
+from tokenize import Number
+
+
+Number = 3.14159
+print("Float: {:0.2f}".format(Number))
