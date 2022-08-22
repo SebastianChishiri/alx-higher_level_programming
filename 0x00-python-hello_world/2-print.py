@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("\"I am planing to master this programming ")
+print("\"Programming is like building a multilingual puzzle")
